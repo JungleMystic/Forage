@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Forage</string>
+
+    <string name="add_item">Add Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="currently_in_season">Currently in season</string>
+    <string name="enter_notes">Enter Notes</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="forage_item_detail">Forage Item Detail</string>
+    <string name="in_season">Currently in season</string>
+    <string name="out_of_season">Currently out of season</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete_title">Deleting Item</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+</resources>
